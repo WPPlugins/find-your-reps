@@ -1,0 +1,21 @@
+/*
+This is the default stylesheet for the Find Your Reps plugin. Do not make changes to this file in the plugin directory. Simply copy this file to your current theme directory and edit there or your changes will be overwritten upon plugin update.
+*/
+#fyr_find_reps {
+	float:left;
+}
+#fyr_find_reps .fyr-intro-message {
+	font-weight:bold;
+}
+#fyr_find_reps .fyr-rep-photo {
+	height:auto;
+	width:100px;
+}
+#fyr_find_reps .fyr-rep-name {
+	margin-top:0.5em;
+}
+#fyr_map_canvas {
+	float:left;
+	width:250px;
+	height:250px;
+}
